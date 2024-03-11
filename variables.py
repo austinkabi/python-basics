@@ -7,3 +7,7 @@ occupation="ICT Instructor"
 print("your name",name)
 print("your age",age)
 print("your occupation",occupation)
+students="Onyango James"
+marks=89
+print("student name {}".format(students))
+
